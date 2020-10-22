@@ -39,25 +39,12 @@
 <br />
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/SHAYENEK/SHAYENEK/pull/13) in [SHAYENEK/SHAYENEK](https://github.com/SHAYENEK/SHAYENEK)
-3. 💪 Opened PR [#13](https://github.com/SHAYENEK/SHAYENEK/pull/13) in [SHAYENEK/SHAYENEK](https://github.com/SHAYENEK/SHAYENEK)
-4. 🎉 Merged PR [#12](https://github.com/SHAYENEK/SHAYENEK/pull/12) in [SHAYENEK/SHAYENEK](https://github.com/SHAYENEK/SHAYENEK)
-5. 💪 Opened PR [#12](https://github.com/SHAYENEK/SHAYENEK/pull/12) in [SHAYENEK/SHAYENEK](https://github.com/SHAYENEK/SHAYENEK)
-<!--END_SECTION:activity-->
 
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="SHAYENEK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shayenek&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://shayenek.com
 [twitter]: https://twitter.com/shayenovsky
