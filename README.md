@@ -4,8 +4,8 @@
 
 ## I'm a Web developer, gamer and a technology enthusiast!
 
-- 🔭 I just launched my first REACT App which is my portfolio: [SHAYENEK.com][website]
-- 🌱 I’m currently working with REACT and Express
+- 🔭 Currently working on a travel packing helper app
+- 🌱 Constantly developping my REACT and Express skills
 - 💪 I’m down to work on every website project thrown at me
 - 🥅 2023 Goals: Get better at backend'ing
 - ⚡ Fun fact: I am a huge video games nerd
