@@ -1,21 +1,19 @@
 ### Hi there, I'm Michał - aka [SHAYENEK][website] 👋
 
-[![Website](https://img.shields.io/website?label=shayenek.com&style=for-the-badge&url=https%3A%2F%2Fshayenek.com)](https://shayenek.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SHAYENOVSKY?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSHAYENOVSKY&screen_name=SHAYENOVSKY)
+[![Website](https://img.shields.io/website?label=shayenek.pl&style=for-the-badge&url=https%3A%2F%2Fshayenek.pl)](https://shayenek.pl)
 
 ## I'm a Web developer, gamer and a technology enthusiast!
 
 - 🔭 I just launched my first REACT App which is my portfolio: [SHAYENEK.com][website]
-- 🌱 I’m currently learning REACT and SASS 🤣
+- 🌱 I’m currently working with REACT and Express
 - 💪 I’m down to work on every website project thrown at me
-- 🥅 2020 Goals: Get better at creating REACT apps 
-- ⚡ Fun fact: I love to ride a bike
+- 🥅 2023 Goals: Get better at backend'ing
+- ⚡ Fun fact: I am a huge video games nerd
 
 
 ### Connect with me:
 
 [<img align="left" alt="SHAYENEK.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SHAYENOVSKY | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="SHAYENEK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
