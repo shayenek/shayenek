@@ -37,14 +37,10 @@
 <br />
 
 
+### GitHub Stats
 
-  <summary>GitHub Stats</summary>
-
-  <img alt="SHAYENEK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shayenek&show_icons=true&hide_border=true&theme=dracula&hide=stars,contribs&custom_title=My GitHub Stats&card_width=500" />
-  <br />
-  <br />
-  
-  <img alt="SHAYENEK's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayenek&theme=dracula&hide_border=true&card_width=500&custom_title=Programming languages I use the most often" />
+<img alt="SHAYENEK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shayenek&show_icons=true&hide_border=true&theme=dracula&hide=stars,contribs&custom_title=My%20GitHub%20Stats&card_width=500" />
+<img alt="SHAYENEK's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayenek&theme=dracula&hide_border=true&card_width=500&custom_title=Programming%20languages%20I%20use%20the%20most%20often" />
 
 
 
