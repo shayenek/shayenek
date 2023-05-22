@@ -38,9 +38,13 @@
 
 
 
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
-  <img align="left" alt="SHAYENEK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shayenek&show_icons=true&hide_border=true" />
+  <img alt="SHAYENEK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shayenek&show_icons=true&hide_border=true&theme=dracula&hide=stars,contribs&custom_title=My GitHub Stats&card_width=500" />
+  <br />
+  <br />
+  
+  <img alt="SHAYENEK's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayenek&theme=dracula&hide_border=true&card_width=500&custom_title=Programming languages I use the most often" />
 
 
 
